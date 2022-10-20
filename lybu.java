@@ -5,3 +5,5 @@ public class lybu {
         System.out.println(d);
     }
 }
+
+int a=10
