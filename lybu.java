@@ -6,4 +6,3 @@ public class lybu {
     }
 }
 
-int a=10
